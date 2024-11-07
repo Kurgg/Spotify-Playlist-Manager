@@ -13,6 +13,7 @@ This is a Python script that allows you to manage and update your Spotify playli
 - Python 3.6 or later
 - Spotipy library (`pip install spotipy`)
 - Numpy library (`pip install numpy`)
+- Ipywidgets library (`pip install ipywidgets`)
 
 ## Usage
 
