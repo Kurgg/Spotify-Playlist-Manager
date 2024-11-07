@@ -21,7 +21,7 @@ This is a Python script that allows you to manage and update your Spotify playli
 2. Run the script:
 
 ```
-python spotify_playlist_manager.py
+python main.py
 ```
 
 3. Enter your Spotify API Client ID, Client Secret, Redirect URI, and Playlist ID when prompted.
